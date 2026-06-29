@@ -31,7 +31,8 @@ public class ChandraMouli {
     String focus   = "IT Placement 2026";
 
     String[] stack     = { "Java", "Python", "SQL", "MERN" };
-    String[] currently = { "DSA with Java", "SQL deep dive", "Building projects" };
+    String[] currently = { "Full Stack Development", "MERN projects", "DSA (placement prep)" };
+    String   passion   = "Building real-world web apps 🌐";
 
     String goal    = "Land my first dev role 🚀";
 }
