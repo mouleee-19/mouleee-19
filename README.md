@@ -45,7 +45,6 @@ public class ChandraMouli {
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
